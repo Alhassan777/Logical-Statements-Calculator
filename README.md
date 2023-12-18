@@ -30,3 +30,6 @@ The script efficiently stores and processes the truth values of each statement i
 
 The final determination of the argument's validity is presented directly to the user.
 The code outputs whether the logical set is valid or invalid based on the truth values provided.
+
+
+**Quick Note:** <span style="color:red;">This was the first Python project I created for my university class. It was a "super optional" challenge for our first assignment, and I dedicated 3 days to it, although I learned later I could have utilized several advanced techniques and algorithms, mainly Dynamic Programming.
